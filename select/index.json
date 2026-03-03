@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "I'd Rather Be with You",
+  "base_artist": "Bootsy Collins",
+  "createdAt": "2026-03-03T09:40:29.846155Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I'd Rather Be With You",
+      "artist": "Bootsy Collins",
+      "has_synced": true,
+      "path": "select/01_I'd_Rather_Be_With_You_Bootsy_Collins.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I'd Rather Be With You",
+      "artist": "Terry Callier",
+      "has_synced": true,
+      "path": "select/02_I'd_Rather_Be_With_You_Terry_Callier.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I'd Rather Be with You",
+      "artist": "Joshua Radin",
+      "has_synced": false,
+      "path": "select/03_I'd_Rather_Be_with_You_Joshua_Radin.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I’d Rather Be With You",
+      "artist": "Bootsy’s Rubber Band",
+      "has_synced": true,
+      "path": "select/04_I’d_Rather_Be_With_You_Bootsy’s_Rubber_Band.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I'd Rather Be With You",
+      "artist": "Joshua Radin",
+      "has_synced": true,
+      "path": "select/05_I'd_Rather_Be_With_You_Joshua_Radin.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I'd Rather Be with You",
+      "artist": "Bootsy Collins",
+      "has_synced": true,
+      "path": "select/06_I'd_Rather_Be_with_You_Bootsy_Collins.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I'd Rather Be With You",
+      "artist": "Bootsy Collins",
+      "has_synced": false,
+      "path": "select/07_I'd_Rather_Be_With_You_Bootsy_Collins.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I'd Rather Be With You",
+      "artist": "Joshua Radin",
+      "has_synced": true,
+      "path": "select/08_I'd_Rather_Be_With_You_Joshua_Radin.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ID Rather Be With You",
+      "artist": "Bootsy Collins",
+      "has_synced": false,
+      "path": "select/pl_01_ID_Rather_Be_With_You_Bootsy_Collins.txt"
+    }
+  ]
+}
